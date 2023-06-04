@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Update OpenVINO INT8 export (#7515)
