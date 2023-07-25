@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Fix Yolo 8.0.206 scale bug (#7821)
