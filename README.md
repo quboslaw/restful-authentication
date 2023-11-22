@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update neural-magic.md (#7347)
