@@ -1,1 +1,1 @@
-update requirements.txt
+Add Neural Magic Docs integrations page (#7234)
