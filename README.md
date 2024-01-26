@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
