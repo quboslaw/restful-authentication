@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Tracker: clean up GMC (#8003)
