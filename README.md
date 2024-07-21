@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add dota8.yaml and O tests (#7394)
