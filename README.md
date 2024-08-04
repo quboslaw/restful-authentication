@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
